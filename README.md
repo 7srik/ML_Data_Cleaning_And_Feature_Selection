@@ -39,7 +39,8 @@ and can therefore be treated individually. Although multiple snaphots can be tak
 
 You are suppose to predict a label (round winner) based on each individual snapshot.
 
-Variable	Definition	Key
+## Variable	Definition	Key
+
 time_left	The time left in the current round.
 
 ct_score	The current score of the Counter-Terrorist team.
