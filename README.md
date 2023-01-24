@@ -11,8 +11,11 @@ CS:GO is a tactical shooter, where two teams (CT and Terrorist) play for a best 
 The dataset was originally published by Skybox as part of their CS:GO AI Challenge, running from Spring to Fall 2020. The data set consists of ~700 demos from high level tournament play in 2019 and 2020. Warmup rounds and restarts have been filtered, and for the remaining live rounds a round snapshot have been recorded every 20 seconds until the round is decided. Following the initial publication, It has been pre-processed and flattened to improve readability and make it easier for algorithms to process. The total number of snapshots is 122411.
 
 Skybox website: https://skybox.gg/
+
 Learn more about CS:GO: https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
+
 View CS:GO on Steam Store: https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+
 Find in-depth information on competitive CS:GO: https://www.hltv.org/
 
 **Acknowledgements**:
